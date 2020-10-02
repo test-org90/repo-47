@@ -1,4 +1,0 @@
-class capital
-{
-}
-#EOF
